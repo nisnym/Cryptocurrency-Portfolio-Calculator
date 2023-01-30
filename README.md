@@ -1,24 +1,10 @@
-# README
+# Cryptocurrency Portfolio Calculator
+A simple cryptocurrency portfolio calculator built with react within ruby on rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+Run it locally:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Prepare the database: rails db:prepare
+- Start your rails server: rails s
+- Navigate to http://localhost:3000 in your browser
